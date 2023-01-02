@@ -1,0 +1,248 @@
+Epochs: 50
+Learning Rate: 1e-05
+Encoder: resnet34
+Encoder Weights: imagenet
+Activation: sigmoid
+Epochs: 50
+Learning Rate: 1e-05
+Encoder: resnet34
+Encoder Weights: imagenet
+Activation: sigmoid
+
+Epoch: 1
+Training:
+iou_score: 0.008995078505906452 
+dice_loss: 0.987380292146437
+fscore: 0.016202871661900174
+Validation:
+iou_score: 1.8794115724262074e-12
+dice_loss: 0.9999902503831046
+fscore: 1.8794115724262074e-12
+Best Epoch Accuracy!
+
+Epoch: 2
+Training:
+iou_score: 0.015622428856097482 
+dice_loss: 0.9876039216595311
+fscore: 0.029196157251430474
+Validation:
+iou_score: 2.925190750586805e-12
+dice_loss: 0.9999892796788896
+fscore: 2.925190750586805e-12
+Best Epoch Accuracy!
+
+Epoch: 3
+Training:
+iou_score: 0.030144739317041643 
+dice_loss: 0.9864905321790323
+fscore: 0.0530481435036115
+Validation:
+iou_score: 1.3557799600256398e-11
+dice_loss: 0.999986435685839
+fscore: 1.3557799600256398e-11
+Best Epoch Accuracy!
+
+Epoch: 4
+Training:
+iou_score: 0.04650619374490892 
+dice_loss: 0.9797346927465932
+fscore: 0.07858957130920488
+Validation:
+iou_score: 1.8269976677365296e-11
+dice_loss: 0.9999837279319762
+fscore: 1.8269976677365296e-11
+Best Epoch Accuracy!
+
+Epoch: 5
+Training:
+iou_score: 0.042020487602708455 
+dice_loss: 0.987300716580883
+fscore: 0.07164302165640724
+Validation:
+iou_score: 3.4258308293352464e-10
+dice_loss: 0.9999814288956779
+fscore: 3.4258308293352464e-10
+Best Epoch Accuracy!
+
+Epoch: 6
+Training:
+iou_score: 0.1009784204386003 
+dice_loss: 0.9628414509757866
+fscore: 0.16277307938229554
+Validation:
+iou_score: 4.323264246597347e-10
+dice_loss: 0.9999785082680838
+fscore: 4.323264246597347e-10
+Best Epoch Accuracy!
+
+Epoch: 7
+Training:
+iou_score: 0.1052763142462432 
+dice_loss: 0.967198822286821
+fscore: 0.17057641609167815
+Validation:
+iou_score: 5.577639197729134e-08
+dice_loss: 0.9999748298100063
+fscore: 5.577639197729134e-08
+Best Epoch Accuracy!
+
+Epoch: 8
+Training:
+iou_score: 0.11563481724306553 
+dice_loss: 0.9640797334332625
+fscore: 0.18452319956230642
+Validation:
+iou_score: 1.0
+dice_loss: 0.9999713386808123
+fscore: 1.0
+Best Epoch Accuracy!
+
+Epoch: 9
+Training:
+iou_score: 0.10519882641222633 
+dice_loss: 0.9619054693368168
+fscore: 0.1680888135711759
+Validation:
+iou_score: 1.1978450659442093e-10
+dice_loss: 0.9999686905315943
+fscore: 1.1978450659442093e-10
+
+Epoch: 10
+Training:
+iou_score: 0.10267951478649849 
+dice_loss: 0.9620596468448643
+fscore: 0.158305662074967
+Validation:
+iou_score: 2.112822646501065e-09
+dice_loss: 0.9999620488711766
+fscore: 2.112822646501065e-09
+
+Epoch: 11
+Training:
+iou_score: 0.12175066593707701 
+dice_loss: 0.9497014538895705
+fscore: 0.18795714522745693
+Validation:
+iou_score: 1.0652423016098224e-11
+dice_loss: 0.9999698315347944
+fscore: 1.0652423016098224e-11
+
+Epoch: 12
+Training:
+iou_score: 0.10350472486171419 
+dice_loss: 0.9638456586868535
+fscore: 0.1628556403214198
+Validation:
+iou_score: 1.0
+dice_loss: 0.9999437161854335
+fscore: 1.0
+
+Epoch: 13
+Training:
+iou_score: 0.09377192045960946 
+dice_loss: 0.9650618615650361
+fscore: 0.14727201240750246
+Validation:
+iou_score: 1.0
+dice_loss: 0.9999376535415649
+fscore: 1.0
+
+Epoch: 14
+Training:
+iou_score: 0.1489050295026877 
+dice_loss: 0.9300147974683385
+fscore: 0.22530747481744018
+Validation:
+iou_score: 0.8571428587301587
+dice_loss: 0.9999203852244786
+fscore: 0.8571428587301587
+
+Epoch: 15
+Training:
+iou_score: 0.1365266406676586 
+dice_loss: 0.9304969388631088
+fscore: 0.2037568653341148
+Validation:
+iou_score: 1.0
+dice_loss: 0.9999035681997026
+fscore: 1.0
+
+Epoch: 16
+Training:
+iou_score: 0.15430422529100715 
+dice_loss: 0.9161806294033616
+fscore: 0.232703867625597
+Validation:
+iou_score: 1.0
+dice_loss: 0.9998800669397627
+fscore: 1.0
+
+Epoch: 17
+Training:
+iou_score: 0.15512684944738367 
+dice_loss: 0.9114672074394841
+fscore: 0.23322406206241628
+Validation:
+iou_score: 1.0
+dice_loss: 0.9998573235103062
+fscore: 1.0
+
+Epoch: 18
+Training:
+iou_score: 0.15133104752548796 
+dice_loss: 0.8964556991092624
+fscore: 0.22521281115502792
+Validation:
+iou_score: 0.8571428585714286
+dice_loss: 0.9998352783066885
+fscore: 0.8571428585714286
+
+Epoch: 19
+Training:
+iou_score: 0.15085363624213854 
+dice_loss: 0.8950476614698282
+fscore: 0.22438385320183432
+Validation:
+iou_score: 3.3567611131189524e-09
+dice_loss: 0.9998103635651725
+fscore: 3.3567611131189524e-09
+
+Epoch: 20
+Training:
+iou_score: 0.13037306055083167 
+dice_loss: 0.9138412355415283
+fscore: 0.19482988384357203
+Validation:
+iou_score: 1.0
+dice_loss: 0.9997402088982719
+fscore: 1.0
+
+Epoch: 21
+Training:
+iou_score: 0.15868759923248577 
+dice_loss: 0.8702975918208401
+fscore: 0.2288261913672865
+Validation:
+iou_score: 6.598596490643109e-10
+dice_loss: 0.999721884727478
+fscore: 6.598596490643109e-10
+
+Epoch: 22
+Training:
+iou_score: 0.16116239016246264 
+dice_loss: 0.8581747635718314
+fscore: 0.23274897745920742
+Validation:
+iou_score: 1.0
+dice_loss: 0.9995681813785008
+fscore: 1.0
+
+Epoch: 23
+Training:
+iou_score: 0.12819293916785984 
+dice_loss: 0.8893994371737204
+fscore: 0.18824263494181148
+Validation:
+iou_score: 1.0
+dice_loss: 0.9995003427777972
+fscore: 1.0

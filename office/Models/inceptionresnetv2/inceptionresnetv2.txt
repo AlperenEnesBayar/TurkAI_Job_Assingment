@@ -1,0 +1,187 @@
+Epochs: 50
+Learning Rate: 1e-05
+Encoder: inceptionresnetv2
+Encoder Weights: imagenet
+Activation: sigmoid
+Epochs: 50
+Learning Rate: 1e-05
+Encoder: inceptionresnetv2
+Encoder Weights: imagenet
+Activation: sigmoid
+Epochs: 50
+Learning Rate: 1e-05
+Encoder: inceptionresnetv2
+Encoder Weights: imagenet
+Activation: sigmoid
+Epochs: 50
+Learning Rate: 1e-05
+Encoder: inceptionresnetv2
+Encoder Weights: imagenet
+Activation: sigmoid
+
+Epoch: 1
+Training:
+iou_score: 0.10264949728623918 
+dice_loss: 0.8655464385237019
+fscore: 0.18379145902359767
+Validation:
+iou_score: 0.14333821833228527
+dice_loss: 0.8666666269302368
+fscore: 0.2430478870878166
+Best Epoch Accuracy!
+
+Epoch: 2
+Training:
+iou_score: 0.2101552229019857 
+dice_loss: 0.8317710449298218
+fscore: 0.3456165919346469
+Validation:
+iou_score: 0.12667879983939154
+dice_loss: 0.8922760367393494
+fscore: 0.2094245642439268
+
+Epoch: 3
+Training:
+iou_score: 0.27532670059174835 
+dice_loss: 0.8305856366952263
+fscore: 0.42041337238957305
+Validation:
+iou_score: 0.12965586558043501
+dice_loss: 0.9038187742233277
+fscore: 0.1979301005607798
+
+Epoch: 4
+Training:
+iou_score: 0.4697499231747092 
+dice_loss: 0.8034430113576703
+fscore: 0.6285743801013214
+Validation:
+iou_score: 0.26119216533737344
+dice_loss: 0.8738885879516601
+fscore: 0.33190711068349044
+Best Epoch Accuracy!
+
+Epoch: 5
+Training:
+iou_score: 0.6010777240264278 
+dice_loss: 0.7649804316815875
+fscore: 0.7409841901844453
+Validation:
+iou_score: 0.2840615034611008
+dice_loss: 0.8619157910346985
+fscore: 0.3553833410651467
+Best Epoch Accuracy!
+
+Epoch: 6
+Training:
+iou_score: 0.6437236567648754 
+dice_loss: 0.738307090458416
+fscore: 0.7710605025867975
+Validation:
+iou_score: 0.3065994885348821
+dice_loss: 0.8464445471763611
+fscore: 0.3603942480468298
+Best Epoch Accuracy!
+
+Epoch: 7
+Training:
+iou_score: 0.6795995055921765 
+dice_loss: 0.7074306573186604
+fscore: 0.799215007750977
+Validation:
+iou_score: 0.03030275404504294
+dice_loss: 0.9435444593429565
+fscore: 0.05831968933394904
+
+Epoch: 8
+Training:
+iou_score: 0.6920578019964089 
+dice_loss: 0.6770295838514967
+fscore: 0.8009022122342204
+Validation:
+iou_score: 0.2725445660631166
+dice_loss: 0.8371562004089356
+fscore: 0.3274203347842203
+
+Epoch: 9
+Training:
+iou_score: 0.7347930859153472 
+dice_loss: 0.6227794556390674
+fscore: 0.8385510967955698
+Validation:
+iou_score: 0.16140321055960385
+dice_loss: 0.8708389282226563
+fscore: 0.18591789976295559
+
+Epoch: 10
+Training:
+iou_score: 0.7271269610776021 
+dice_loss: 0.5946963002284366
+fscore: 0.8205812181393958
+Validation:
+iou_score: 0.8502543210983277
+dice_loss: 0.6068223237991333
+fscore: 0.9170881748199463
+Best Epoch Accuracy!
+
+Epoch: 11
+Training:
+iou_score: 0.7788172892339179 
+dice_loss: 0.5051801741123199
+fscore: 0.8674840186855615
+Validation:
+iou_score: 0.3959555453620851
+dice_loss: 0.8313904523849487
+fscore: 0.435011925175786
+
+Epoch: 12
+Training:
+iou_score: 0.8133539947725477 
+dice_loss: 0.45502329525493435
+fscore: 0.896246355204355
+Validation:
+iou_score: 0.3875914879143238
+dice_loss: 0.8235432386398316
+fscore: 0.4302822560071945
+
+Epoch: 13
+Training:
+iou_score: 0.8096714451202336 
+dice_loss: 0.40812583352838244
+fscore: 0.8846281531314073
+Validation:
+iou_score: 0.5299971543252469
+dice_loss: 0.7253730773925782
+fscore: 0.572957269102335
+
+Epoch: 14
+Training:
+iou_score: 0.8265049563990007 
+dice_loss: 0.3636563258511681
+fscore: 0.894215724723989
+Validation:
+iou_score: 0.7114689826965332
+dice_loss: 0.5696930527687073
+fscore: 0.7610353454947472
+
+Epoch: 15
+Training:
+iou_score: 0.7980681810722062 
+dice_loss: 0.3461132871253149
+fscore: 0.8607486365196693
+Validation:
+iou_score: 0.8959367156028748
+dice_loss: 0.4069623351097107
+fscore: 0.9441690802574157
+Best Epoch Accuracy!
+
+Epoch: 16
+Training:
+iou_score: 0.8177147457648529 
+dice_loss: 0.3009726298706875
+fscore: 0.8803168151392599
+Validation:
+iou_score: 0.9006689429283142
+dice_loss: 0.3773953080177307
+fscore: 0.9468847393989563
+Best Epoch Accuracy!
